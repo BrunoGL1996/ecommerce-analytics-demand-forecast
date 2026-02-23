@@ -1,0 +1,1 @@
+-- Queries de análise serão adicionadas aqui
